@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+
 float restot(float R1, float R2, float R3){
 float restot;
 restot=(1/((1/R1)+(1/R2)+(1/R3)));
