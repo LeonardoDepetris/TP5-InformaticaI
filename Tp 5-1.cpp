@@ -1,3 +1,4 @@
+//Actualización
 #include <stdio.h>
 
 double potencia (double base, int exp) {
