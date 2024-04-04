@@ -1,4 +1,4 @@
-//Actualización
+//Actualización de sincronizacion
 #include <stdio.h>
 
 double potencia (double base, int exp) {
